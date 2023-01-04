@@ -23,3 +23,4 @@ I'm a Undergraduate Student at University of Virginia. I am Computer Science and
 - I'm a Indie Filmmaker who loves Experimental and Narrative Shorts
 - How to reach me: jh4ctf@virginia.edu | jhong1711785634@gmail.com
 - Pronouns: he/him
+- [View my CV](https://drive.google.com/file/d/1P1icnvAAK2vQ_LLow7Bk9nyCrbyXd6Mf/view?usp=share_link)
