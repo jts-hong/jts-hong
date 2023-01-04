@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 I'm a Undergraduate Student at University of Virginia. I am Computer Science and Studio Art(Cinematography Concentration), working at the Security Research Group under Professor David Evans in Computer Science Department.
 
-· I’m currently working on privacy in Machine Learning, focusing on Adversial Attack
-· I'm a sports fanatic who plays 🏀, 🏈, 🥍, 🎾, 🥏, ⛳️, 🛹,⛷️,⚽️
-· I'm a Indie Filmmaker who loves Experimental and Narrative Shorts
-· How to reach me: jh4ctf@virginia.edu | jhong1711785634@gmail.com
-· Pronouns: he/him
+- I’m currently working on privacy in Machine Learning, focusing on Adversial Attack
+- I'm a sports fanatic who plays 🏀, 🏈, 🥍, 🎾, 🥏, ⛳️, 🛹,⛷️,⚽️
+- I'm a Indie Filmmaker who loves Experimental and Narrative Shorts
+- How to reach me: jh4ctf@virginia.edu | jhong1711785634@gmail.com
+- Pronouns: he/him
