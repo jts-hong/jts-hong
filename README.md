@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a Undergraduate Student at University of Virginia. I am Computer Science and Studio Art(Cinematography Concentration), working at the Security Research Group under Professor David Evans in Computer Science Department.
+I'm a MSBA Student at Columbia University. I am Computer Scientist Cinematographer, and a Business Analytics Major. 
 
 - I’m currently working on privacy in Machine Learning, focusing on Adversial Attack
 - I'm a sports fanatic who plays 🏀, 🏈, 🥍, 🎾, 🥏, ⛳️, 🛹,⛷️,⚽️
