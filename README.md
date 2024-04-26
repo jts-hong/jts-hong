@@ -21,6 +21,6 @@ I'm a MSBA Student at Columbia University. I am Computer Scientist Cinematograph
 - I’m currently working on privacy in Machine Learning, focusing on Adversial Attack
 - I'm a sports fanatic who plays 🏀, 🏈, 🥍, 🎾, 🥏, ⛳️, 🛹,⛷️,⚽️
 - I'm a Indie Filmmaker who loves Experimental and Narrative Shorts
-- How to reach me: jh4ctf@virginia.edu | jhong1711785634@gmail.com
+- How to reach me: jh4760@columbia.edu | jhong1711785634@gmail.com
 - Pronouns: he/him
 - [View my CV](https://drive.google.com/file/d/1P1icnvAAK2vQ_LLow7Bk9nyCrbyXd6Mf/view?usp=share_link)
